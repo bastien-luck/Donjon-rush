@@ -1,0 +1,481 @@
+# depslib dependency file v1.0
+1489006818 source:e:\projet c++\donjon.cpp
+	<iostream>
+	"donjon.h"
+	"Equipement.h"
+	"Personnages.h"
+	"fonction_globale.h"
+
+1489136498 e:\projet c++\donjon.h
+	<iostream>
+
+1488280452 e:\projet c++\equipement.h
+
+1489141738 e:\projet c++\personnages.h
+	<iostream>
+
+1489143426 source:e:\projet c++\main.cpp
+	"gestion_fenetre.h"
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+	<iostream>
+
+1489090588 source:e:\projet c++\maintest.cpp
+
+1489144016 source:e:\projet c++\personnages.cpp
+	<iostream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1489090648 e:\projet c++\gestion_fenetre.h
+	<iostream>
+	"windows.h"
+	<stdio.h>
+
+1488962778 e:\projet c++\main.cpp
+	"gestion_fenetre.h"
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	<iostream>
+
+1489441892 source:f:\projet c++\donjon.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1489441892 f:\projet c++\donjon.h
+	<iostream>
+	"Equipement.h"
+
+1489304548 f:\projet c++\equipement.h
+	<iostream>
+
+1489438902 f:\projet c++\personnages.h
+	<iostream>
+	"Equipement.h"
+	"donjon.h"
+
+1489559154 source:f:\projet c++\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"gestion_fenetre.h"
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1489220708 f:\projet c++\gestion_fenetre.h
+	<iostream>
+	"windows.h"
+	<stdio.h>
+
+1489325394 source:f:\projet c++\maintest.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+
+1489559154 f:\projet c++\fonction_globale.h
+	<iostream>
+
+1489087814 f:\projet c++\main.cpp
+	"gestion_fenetre.h"
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+	<iostream>
+
+1489559272 source:f:\projet c++\fonction_globale.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1489439230 source:f:\projet c++\personnages.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1489091396 e:\projet c++\fonction_globale.h
+	<iostream>
+	"Equipement.h"
+	"donjon.h"
+	"Personnages.h"
+
+1489091396 source:e:\projet c++\fonction_globale.cpp
+	<iostream>
+	"fonction_globale.h"
+	"Equipement.h"
+	"donjon.h"
+	"Personnages.h"
+
+1489225448 source:f:\projet c++\menu.cpp
+	<iostream>
+	<conio.h>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1489316836 source:f:\projet c++\equipement.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1490133644 source:f:\projet c++ presque fini\donjon.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1490164198 f:\projet c++ presque fini\personnages.h
+	<iostream>
+	"Equipement.h"
+	"donjon.h"
+
+1490134812 f:\projet c++ presque fini\equipement.h
+	<iostream>
+
+1490132884 f:\projet c++ presque fini\donjon.h
+	<iostream>
+	"Equipement.h"
+
+1490171916 f:\projet c++ presque fini\fonction_globale.h
+	<iostream>
+
+1490172416 source:f:\projet c++ presque fini\fonction_globale.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1490134762 source:f:\projet c++ presque fini\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"gestion_fenetre.h"
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1489220708 f:\projet c++ presque fini\gestion_fenetre.h
+	<iostream>
+	"windows.h"
+	<stdio.h>
+
+1490134762 source:f:\projet c++ presque fini\maintest.cpp
+	"windows.h"
+	"iostream"
+
+1490172282 source:f:\projet c++ presque fini\personnages.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"windows.h"
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1490132884 source:f:\projet c++ presque fini\equipement.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1490302516 source:e:\projet c++ jouable\donjon.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1490350140 e:\projet c++ jouable\personnages.h
+	<iostream>
+	"Equipement.h"
+	"donjon.h"
+
+1490301350 e:\projet c++ jouable\equipement.h
+	<iostream>
+
+1490132884 e:\projet c++ jouable\donjon.h
+	<iostream>
+	"Equipement.h"
+
+1490215242 e:\projet c++ jouable\fonction_globale.h
+	<iostream>
+
+1490302032 source:e:\projet c++ jouable\equipement.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1490353244 source:e:\projet c++ jouable\fonction_globale.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1490303178 source:e:\projet c++ jouable\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"gestion_fenetre.h"
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1489220708 e:\projet c++ jouable\gestion_fenetre.h
+	<iostream>
+	"windows.h"
+	<stdio.h>
+
+1490134762 source:e:\projet c++ jouable\maintest.cpp
+	"windows.h"
+	"iostream"
+
+1490351752 source:e:\projet c++ jouable\personnages.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"windows.h"
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1490680216 source:f:\projet c++ jouable\donjon.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1490727492 f:\projet c++ jouable\personnages.h
+	<iostream>
+	"Equipement.h"
+	"donjon.h"
+
+1490301350 f:\projet c++ jouable\equipement.h
+	<iostream>
+
+1490680094 f:\projet c++ jouable\donjon.h
+	<iostream>
+	"Equipement.h"
+
+1490643466 f:\projet c++ jouable\fonction_globale.h
+	<iostream>
+
+1490727492 source:f:\projet c++ jouable\equipement.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1490730138 source:f:\projet c++ jouable\fonction_globale.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1490730138 source:f:\projet c++ jouable\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"gestion_fenetre.h"
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1489220708 f:\projet c++ jouable\gestion_fenetre.h
+	<iostream>
+	"windows.h"
+	<stdio.h>
+
+1490684470 source:f:\projet c++ jouable\maintest.cpp
+	"windows.h"
+	"iostream"
+
+1490730702 source:f:\projet c++ jouable\personnages.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"windows.h"
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1551023553 source:c:\users\ph-goubert\workspace qt\projet c++ jouable\donjon.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1551023553 c:\users\ph-goubert\workspace qt\projet c++ jouable\personnages.h
+	<iostream>
+	"Equipement.h"
+	"donjon.h"
+
+1551023553 c:\users\ph-goubert\workspace qt\projet c++ jouable\equipement.h
+	<iostream>
+
+1551023553 c:\users\ph-goubert\workspace qt\projet c++ jouable\donjon.h
+	<iostream>
+	"Equipement.h"
+
+1551023553 c:\users\ph-goubert\workspace qt\projet c++ jouable\fonction_globale.h
+	<iostream>
+
+1551023553 source:c:\users\ph-goubert\workspace qt\projet c++ jouable\equipement.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1551023553 source:c:\users\ph-goubert\workspace qt\projet c++ jouable\fonction_globale.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1551023553 source:c:\users\ph-goubert\workspace qt\projet c++ jouable\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"gestion_fenetre.h"
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
+1551023552 c:\users\ph-goubert\workspace qt\projet c++ jouable\gestion_fenetre.h
+	<iostream>
+	"windows.h"
+	<stdio.h>
+
+1551023553 source:c:\users\ph-goubert\workspace qt\projet c++ jouable\maintest.cpp
+	"windows.h"
+	"iostream"
+
+1551023553 source:c:\users\ph-goubert\workspace qt\projet c++ jouable\personnages.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	"windows.h"
+	"Personnages.h"
+	"Equipement.h"
+	"donjon.h"
+	"fonction_globale.h"
+
