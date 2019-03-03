@@ -1,12 +1,17 @@
 Donjon rush
 
+
 Plateforme utilisé :
 Windows 7
 
 Logiciel de programmation :
 codeblocks
 
+Langage de programmation :
+C++
+
 Ce projet a été réalisé lors de mon année d'intégration à l'ENSIBS (année de remise à niveau).
+Ce projet a été fait par GUY Antoine et LUCK Bastien.
 
 Pour toute information sur le jeu, se référencer à la synthèse du projet.
 Les règles du jeu sont aussi expliqué dans la synthèse (hors stats des équipements).
